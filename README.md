@@ -1,20 +1,12 @@
 Hi, I’m @Kilokoopa
 
-I’m interested in ...
-- Manufacturing Automation
-  - PLCs (Allen Bradley)
-  - HMIs (Ignition / RSView)
-- Development
-  - MSSQL
-  - .NET (Blazor, WPF, C#)
-  - Python
-
-I’m currently learning
-- Blazor
-- .NET 5
-- Azure DevOps Pipelines
-
-
+Skills:
+- .NET
+- SQL
+- Azure DevOps
+- Kubernetes pods
+- PLCs (Allen Bradley)
+- HMIs (Ignition / RSView)
 
 jmcauley04@gmail.com
 
