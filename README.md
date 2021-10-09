@@ -8,17 +8,16 @@ I have 6+ years working primarily with .NET and the Microsoft suite, I am an eff
 
 Backend                   | Frontend           | Database                | Devops                                                                                                                      | Softskills
 :---:                     | :---:              | :---:                   | :---:                                                                                                                       | :---:
-C#                        | Blazor             | T-SQL (MS-SQL)          | Azure                                                                                                                       | Team-oriented
-Entity Framework Core     | Razor              | DB2                     | Agile Workflow                                                                                                              | Communication, written and verbal
-Class Library Development | ASP.NET Core / MVC | Oracle                  | Azure Pipelines                                                                                                             | Critical Thinking
-API Development           | HTML5              | Azure DB                | GitHub Actions                                                                                                              | Problem Solving
-Automated Testing         | CSS3               | 3NF (Third Normal Form) | Git Source Control                                                                                                          | Motivated to Learn and Improve
-Azure Functions           | CSS Grids          | --                      | [Microsoft's Trunk-based branching strategy](https://docs.microsoft.com/en-us/devops/develop/how-microsoft-develops-devops) | Accountable
---                        | Bootstrap          | --                      | Kubernetes                                                                                                                  | Confident
---                        | Winforms & WPF     | --                      | Docker                                                                                                                      | --
---                        | Learning Angular   | --                      | --                                                                                                                          | --
+C#                        | Blazor / Razor     | T-SQL (MS-SQL)          | Azure                                                                                                                       | Team-oriented
+Entity Framework Core     | MVC                | DB2                     | Agile Workflow                                                                                                              | Communication, written and verbal
+Class Library Development | ASP.NET Core       | Oracle                  | Azure Pipelines                                                                                                             | Critical Thinking
+API Development           | HTML5 / CSS3       | Azure DB                | GitHub Actions                                                                                                              | Problem Solving
+Automated Testing         | CSS Grids          | 3NF (Third Normal Form) | Git Source Control                                                                                                          | Motivated to Learn and Improve
+Azure Functions           | Bootstrap          | --                      | [Microsoft's Trunk-based branching strategy](https://docs.microsoft.com/en-us/devops/develop/how-microsoft-develops-devops) | Accountable
+--                        | Winforms & WPF     | --                      | Kubernetes                                                                                                                  | Confident
+--                        | Learning Angular   | --                      | Docker                                                                                                                      | --
 --                        | JavaScript         | --                      | --                                                                                                                          | --
- 
+
 
 
 
