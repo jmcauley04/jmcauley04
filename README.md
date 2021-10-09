@@ -6,19 +6,19 @@ I have 6+ years working primarily with .NET and the Microsoft suite, I am an eff
 
 # Key Skills
 
-Backend                   | Frontend      | Database                | Devops                                                                                                                      | Softskills
-:---:                     | :---:         | :---:                   | :---:                                                                                                                       | :---:
-C#                        | Blazor        | T-SQL (MS-SQL)          | Azure                                                                                                                       | Team-oriented
-Entity Framework Core     | Razor         | DB2                     | Agile Workflow                                                                                                              | Communication, written and verbal
-Class Library Development | HTML5         | Oracle                  | Azure Pipelines                                                                                                             | Critical Thinking
-API Development           | CSS3          | Azure DB                | GitHub Actions                                                                                                              | Problem Solving
-Automated Testing         | Bootstrap     | 3NF (Third Normal Form) | Git Source Control                                                                                                          | Motivated to Learn and Improve
-Azure Functions           | CSS Grids     | --                      | [Microsoft's Trunk-based branching strategy](https://docs.microsoft.com/en-us/devops/develop/how-microsoft-develops-devops) | Accountable
---                        | ASP.NET Core  | --                      | Kubernetes                                                                                                                  | Confident
---                        | Winforms      | --                      | Docker                                                                                                                      | --
---                        | WPF           | --                      | --                                                                                                                          | --
---                        | JavaScript    | --                      | --                                                                                                                          | --
-
+Backend                   | Frontend           | Database                | Devops                                                                                                                      | Softskills
+:---:                     | :---:              | :---:                   | :---:                                                                                                                       | :---:
+C#                        | Blazor             | T-SQL (MS-SQL)          | Azure                                                                                                                       | Team-oriented
+Entity Framework Core     | Razor              | DB2                     | Agile Workflow                                                                                                              | Communication, written and verbal
+Class Library Development | ASP.NET Core / MVC | Oracle                  | Azure Pipelines                                                                                                             | Critical Thinking
+API Development           | HTML5              | Azure DB                | GitHub Actions                                                                                                              | Problem Solving
+Automated Testing         | CSS3               | 3NF (Third Normal Form) | Git Source Control                                                                                                          | Motivated to Learn and Improve
+Azure Functions           | CSS Grids          | --                      | [Microsoft's Trunk-based branching strategy](https://docs.microsoft.com/en-us/devops/develop/how-microsoft-develops-devops) | Accountable
+--                        | Bootstrap          | --                      | Kubernetes                                                                                                                  | Confident
+--                        | Winforms & WPF     | --                      | Docker                                                                                                                      | --
+--                        | Learning Angular   | --                      | --                                                                                                                          | --
+--                        | JavaScript         | --                      | --                                                                                                                          | --
+ 
 
 
 
