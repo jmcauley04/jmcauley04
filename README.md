@@ -8,7 +8,7 @@ I have 6+ years working primarily with .NET and the Microsoft suite, I am an eff
 
 Backend                   | Frontend      | Database Languages and Design | Devops              | Softskills
 :---:                     | :---:         | :---:                         | :---:               | :---:
-C#                        | Blazor        | T-SQL (MS-SQL)                | Azure Devops        | Team-oriented
+C#                        | Blazor        | T-SQL (MS-SQL)                | Azure               | Team-oriented
 Entity Framework Core     | Razor         | DB2                           | Agile Workflow      | Communication, written and verbal
 Class Library Development | HTML5         | Oracle                        | Azure Pipelines     | Critical Thinking
 API Development           | CSS3          | Azure DB                      | GitHub Actions      | Problem Solving
