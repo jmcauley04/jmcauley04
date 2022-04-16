@@ -15,7 +15,7 @@ API Development           | HTML5 / CSS3       | Azure DB                | GitHu
 Automated Testing         | CSS Grids          | 3NF (Third Normal Form) | Git Source Control                                                                                                          | Motivated to Learn and Improve
 Azure Functions           | Bootstrap          | --                      | [Microsoft's Trunk-based branching strategy](https://docs.microsoft.com/en-us/devops/develop/how-microsoft-develops-devops) | Accountable
 --                        | Winforms & WPF     | --                      | Kubernetes                                                                                                                  | Confident
---                        | Learning Angular   | --                      | Docker                                                                                                                      | --
+--                        | Angular / TS       | --                      | Docker                                                                                                                      | --
 --                        | JavaScript         | --                      | --                                                                                                                          | --
 
 
