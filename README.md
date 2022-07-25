@@ -14,7 +14,7 @@ Class Library Development | ASP.NET Core       | Oracle                  | Azure
 API Development           | HTML5 / CSS3       | Azure DB                | GitHub Actions                                                                                                              | Problem Solver
 Automated Testing         | CSS Grids          | 3NF (Third Normal Form) | Git Source Control                                                                                                          | Motivated to Learn and Improve
 Azure Functions           | Bootstrap          | --                      | [Microsoft's Trunk-based branching strategy](https://docs.microsoft.com/en-us/devops/develop/how-microsoft-develops-devops) | Accountable
---                        | Winforms & WPF     | --                      | Kubernetes                                                                                                                  | Confident
+Rust                      | Winforms & WPF     | --                      | Kubernetes                                                                                                                  | Confident
 --                        | Angular / TS       | --                      | Docker                                                                                                                      | --
 --                        | JavaScript         | --                      | --                                                                                                                          | --
 
